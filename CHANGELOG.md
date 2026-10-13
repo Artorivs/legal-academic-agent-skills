@@ -1,9 +1,16 @@
 # Changelog
 
-## 1.0.0 — 2026-10-13
+Notable changes to this project are recorded here. Follow a consistent release format and link releases to their tags where available.
 
-- Initial model-agnostic legal academic agent-skills package.
-- Added project-upload bundle for AI Projects that cannot auto-discover skills.
-- Added modular workflows for planning, source verification, authority analysis, literature synthesis, argument mapping, drafting, adversarial review, continuity, consolidation, and final audit.
-- Added project record templates and structural validator.
-- Documented inspiration from Matt Pocock's composable skills repository without copying individual skill texts.
+## Unreleased
+
+### Added
+- Supplemental compatibility guidance for plugin and portable skill distribution.
+- Legal and academic research quality-control reference.
+- Initial citation-fidelity, adverse-authority, and manuscript-integrity evaluation cases.
+- Basic skill structure tests and a standard-library validation script.
+- GitHub Actions workflow for structural validation.
+- Contribution and security reporting guidance.
+
+### Notes
+- These additions are starter materials and have not been validated against every existing skill or target platform.
