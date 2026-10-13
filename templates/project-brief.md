@@ -1,0 +1,17 @@
+# Project Brief
+
+- Project title: [TITLE]
+- Output type and target venue: [ARTICLE / CHAPTER / NOTE / REPORT / OTHER]
+- Research question: [QUESTION]
+- Provisional thesis: [THESIS]
+- Jurisdiction(s) and relevant period: [SCOPE]
+- Method: [DOCTRINAL / COMPARATIVE / SOCIO-LEGAL / EMPIRICAL / OTHER]
+- Intended contribution: [CONTRIBUTION]
+- Intended readership: [AUDIENCE]
+- Language and variety: [E.G. BRITISH ENGLISH / TRADITIONAL CHINESE]
+- Citation style: [STYLE]
+- Word limit and other requirements: [CONSTRAINTS]
+- Primary materials available: [MATERIALS]
+- Main source gaps: [GAPS]
+- Authorial decisions required: [QUESTIONS]
+- Last updated: [DATE]
